@@ -1,0 +1,12 @@
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\bin\Debug\net6.0-windows\WinFormsLibrary1.deps.json
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\bin\Debug\net6.0-windows\WinFormsLibrary1.dll
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\bin\Debug\net6.0-windows\WinFormsLibrary1.pdb
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.csproj.AssemblyReference.cache
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.AssemblyInfoInputs.cache
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.AssemblyInfo.cs
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.dll
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\refint\WinFormsLibrary1.dll
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.pdb
+C:\Users\iayas\Documents\code\projects\WinFormsLibrary1\obj\Debug\net6.0-windows\ref\WinFormsLibrary1.dll

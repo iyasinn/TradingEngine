@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7Kph397g5tmTYc/5EJ0tLiknDqXDy9NYSEMpgy37oSwvUvwnY/XqaBC8DXA5/lRGYY8ojC/AC8lgWi/IwI5Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iayas\\Documents\\code\\projects\\LoggingCS\\LoggingCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iayas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\iayas\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\iayas\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\iayas\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\iayas\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\iayas\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\iayas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\iayas\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\iayas\Documents\code\projects\GraphicCS\bin\Debug\net6.0-windows\GraphicCS.exe
+C:\Users\iayas\Documents\code\projects\GraphicCS\bin\Debug\net6.0-windows\GraphicCS.deps.json
+C:\Users\iayas\Documents\code\projects\GraphicCS\bin\Debug\net6.0-windows\GraphicCS.runtimeconfig.json
+C:\Users\iayas\Documents\code\projects\GraphicCS\bin\Debug\net6.0-windows\GraphicCS.dll
+C:\Users\iayas\Documents\code\projects\GraphicCS\bin\Debug\net6.0-windows\GraphicCS.pdb
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.csproj.AssemblyReference.cache
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.Form1.resources
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.csproj.GenerateResource.cache
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.AssemblyInfoInputs.cache
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.AssemblyInfo.cs
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.csproj.CoreCompileInputs.cache
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.dll
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\refint\GraphicCS.dll
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.pdb
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\GraphicCS.genruntimeconfig.cache
+C:\Users\iayas\Documents\code\projects\GraphicCS\obj\Debug\net6.0-windows\ref\GraphicCS.dll

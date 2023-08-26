@@ -1,0 +1,10 @@
+C:\Users\iayas\Documents\code\projects\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.deps.json
+C:\Users\iayas\Documents\code\projects\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.dll
+C:\Users\iayas\Documents\code\projects\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.pdb
+C:\Users\iayas\Documents\code\projects\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.csproj.AssemblyReference.cache
+C:\Users\iayas\Documents\code\projects\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iayas\Documents\code\projects\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.AssemblyInfoInputs.cache
+C:\Users\iayas\Documents\code\projects\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.AssemblyInfo.cs
+C:\Users\iayas\Documents\code\projects\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.csproj.CoreCompileInputs.cache
+C:\Users\iayas\Documents\code\projects\LoggingCS\obj\Debug\netstandard2.1\TradingEngineServer.Logging.dll
+C:\Users\iayas\Documents\code\projects\LoggingCS\obj\Debug\netstandard2.1\TradingEngineServer.Logging.pdb

@@ -1,0 +1,10 @@
+C:\Users\iayas\Documents\code\projects\OrdersCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.deps.json
+C:\Users\iayas\Documents\code\projects\OrdersCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.dll
+C:\Users\iayas\Documents\code\projects\OrdersCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.pdb
+C:\Users\iayas\Documents\code\projects\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.csproj.AssemblyReference.cache
+C:\Users\iayas\Documents\code\projects\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iayas\Documents\code\projects\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.AssemblyInfoInputs.cache
+C:\Users\iayas\Documents\code\projects\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.AssemblyInfo.cs
+C:\Users\iayas\Documents\code\projects\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.csproj.CoreCompileInputs.cache
+C:\Users\iayas\Documents\code\projects\OrdersCS\obj\Debug\netstandard2.1\TradingEngineServer.Orders.dll
+C:\Users\iayas\Documents\code\projects\OrdersCS\obj\Debug\netstandard2.1\TradingEngineServer.Orders.pdb
