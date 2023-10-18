@@ -1,8 +1,53 @@
-[32mINFO    [0m [34mREADME-AI is now executing.[0m
-[32mINFO    [0m [34mUser Repository: https://github.com/iyasinn/TradingEngine[0m
-[32mINFO    [0m [34mOutput README File: readmeai.md[0m
-[32mINFO    [0m [34mLLM Engine:  gpt-3.5-turbo[0m
-[32mINFO    [0m [34mDirectory tree: 
+<div align="center">
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+<br>TRADINGENGINE</h1>
+<h3>◦ HTTPStatus Exception: 401</h3>
+<h3>◦ Developed with the software and tools below.</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/EditorConfig-FEFEFE.svg?style&logo=EditorConfig&logoColor=black" alt="EditorConfig" />
+<img src="https://img.shields.io/badge/JSON-000000.svg?style&logo=JSON&logoColor=white" alt="JSON" />
+</p>
+<img src="https://img.shields.io/github/license/iyasinn/TradingEngine?style&color=5D6D7E" alt="GitHub license" />
+<img src="https://img.shields.io/github/last-commit/iyasinn/TradingEngine?style&color=5D6D7E" alt="git-last-commit" />
+<img src="https://img.shields.io/github/commit-activity/m/iyasinn/TradingEngine?style&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/languages/top/iyasinn/TradingEngine?style&color=5D6D7E" alt="GitHub top language" />
+</div>
+
+---
+
+## 📖 Table of Contents
+- [📖 Table of Contents](#-table-of-contents)
+- [📍 Overview](#-overview)
+- [📦 Features](#-features)
+- [📂 Repository Structure](#-repository-structure)
+- [⚙️ Modules](#modules)
+- [🚀 Getting Started](#-getting-started)
+    - [🔧 Installation](#-installation)
+    - [🤖 Running TradingEngine](#-running-TradingEngine)
+    - [🧪 Tests](#-tests)
+- [🛣 Roadmap](#-roadmap)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [👏 Acknowledgments](#-acknowledgments)
+
+---
+
+
+## 📍 Overview
+
+HTTPStatus Exception: 401
+
+---
+
+## 📦 Features
+
+HTTPStatus Exception: 401
+
+---
+
+
 ## 📂 Repository Structure
 
 ```sh
@@ -109,530 +154,364 @@
         ├── WinFormsLibrary2.csproj
         └── obj/
 ```
-[0m
-[32mINFO    [0m [34mDependencies: ['', 'GraphicCS.AssemblyInfoInputs.cache', 'TradingEngineServer.Orderbook.deps.json', 'AbstractLogger.cs', 'InstrumentCS.csproj.FileListAbsolute.txt', '.NETCoreApp,Version=v6.0.AssemblyAttributes.cs', 'GraphicUI.csproj.BuildWithSkipAnalyzers', 'Console.cs', 'Limit.cs', 'RejectCS.csproj.nuget.dgspec.json', 'InstrumentCS.AssemblyInfo.cs', 'ConsoleUI.csproj.nuget.g.targets', 'GraphicCS.csproj.BuildWithSkipAnalyzers', 'IOrderEntryOrderbook.cs', 'Rejection.cs', 'props', 'OrdersCS.csproj.CoreCompileInputs.cache', 'OrderCore.cs', 'editorconfig', 'WinFormsApp1.designer.deps.json', 'WinFormsLibrary1.GeneratedMSBuildEditorConfig.editorconfig', 'InstrumentCS.AssemblyInfoInputs.cache', 'ConsoleUI.GlobalUsings.g.cs', 'TextLogger.cs', 'OrderbookCS.csproj', 'OrdersCS.csproj.nuget.g.props', 'NewOrderStatus.cs', 'cs', 'ConsoleUI.csproj', 'LoggingCS.csproj.CoreCompileInputs.cache', 'csproj', 'GraphicUI.csproj.nuget.g.targets', 'WinFormsLibrary1.csproj', 'WinFormsLibrary2.csproj.nuget.g.targets', 'OrderbookCS.csproj.nuget.g.targets', 'WinFormsApp1.AssemblyInfo.cs', 'LoggingCS.csproj.nuget.g.targets', 'LoggingCS.csproj.nuget.g.props', 'GraphicUI.runtimeconfig.json', 'WinFormsApp1.csproj.CoreCompileInputs.cache', 'ModifyOrderStatus.cs', 'OrdersCS.AssemblyInfo.cs', 'OrderbookCS.csproj.nuget.dgspec.json', 'targets', 'GraphicCS.GlobalUsings.g.cs', 'WinFormsApp1.csproj.BuildWithSkipAnalyzers', 'GraphicUI.genruntimeconfig.cache', 'WinFormsApp1.sln', 'InstrumentCS.csproj.BuildWithSkipAnalyzers', 'WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig', 'GraphicUI.AssemblyInfoInputs.cache', 'LimitComparer.cs', 'GraphicUI.csproj.FileListAbsolute.txt', 'sln', 'GraphicUI.designer.runtimeconfig.json', 'json', 'LoggingCS.AssemblyInfoInputs.cache', 'OrdersCS.AssemblyInfoInputs.cache', 'GraphicCS.csproj.nuget.g.props', 'ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig', 'Side.cs', 'ILogger.cs', 'OrderbookCS.AssemblyInfoInputs.cache', 'ConsoleUI.AssemblyInfo.cs', 'NoMatchOrderbook.cs', 'RejectCS.GeneratedMSBuildEditorConfig.editorconfig', 'OrderbookCS.AssemblyInfo.cs', 'ConsoleUI.csproj.nuget.g.props', 'OrderStatusCreator.cs', 'OrderbookCS.csproj.nuget.g.props', 'OrderbookCS.csproj.BuildWithSkipAnalyzers', 'WinFormsLibrary2.AssemblyInfo.cs', 'WinFormsLibrary1.csproj.user', 'GraphicCS.designer.runtimeconfig.json', 'GraphicCS.csproj', 'Form1.cs', 'LoggingCS.GeneratedMSBuildEditorConfig.editorconfig', 'IReadOnlyOrderbook.cs', 'WinFormsApp1.csproj.user', 'GraphicCS.designer.deps.json', 'WinFormsLibrary2.csproj', 'OrderRecord.cs', 'WinFormsApp1.csproj.FileListAbsolute.txt', 'GraphicUI.csproj.nuget.g.props', 'LoggerType.cs', 'OrderbookCS.csproj.CopyComplete', 'text', 'InstrumentCS.csproj.nuget.dgspec.json', 'InstrumentCS.GeneratedMSBuildEditorConfig.editorconfig', 'WinFormsApp1.csproj.nuget.dgspec.json', 'resx', 'project.assets.json', 'WinFormsLibrary1.csproj.nuget.g.targets', 'WinFormsApp1.deps.json', 'WinFormsApp1.GlobalUsings.g.cs', 'WinFormsLibrary1.csproj.BuildWithSkipAnalyzers', 'CancelOrderStatus.cs', 'Security.cs', 'GraphicCS.csproj.nuget.dgspec.json', 'OrdersCS.GeneratedMSBuildEditorConfig.editorconfig', 'LoggingCS.csproj.nuget.dgspec.json', 'Form1.Designer.cs', 'lock', 'WinFormsLibrary2.GlobalUsings.g.cs', 'GraphicUI.AssemblyInfo.cs', 'WinFormsApp1.AssemblyInfoInputs.cache', 'OrdersCS.csproj.nuget.g.targets', 'csharp', 'WinFormsApp1.designer.runtimeconfig.json', 'GraphicCS.GeneratedMSBuildEditorConfig.editorconfig', 'IMatchingOrderbook.cs', 'GraphicUI.csproj.CoreCompileInputs.cache', 'read.lock', 'OrdersCS.csproj', 'WinFormsLibrary1.AssemblyInfo.cs', 'WinFormsLibrary1.GlobalUsings.g.cs', 'LoggerConfiguration.cs', 'WinFormsApp1.runtimeconfig.json', 'ITextLogger.cs', 'GraphicCS.csproj.CoreCompileInputs.cache', 'TradingEngineServer.Orders.deps.json', 'InstrumentCS.csproj.nuget.g.targets', 'txt', 'GraphicCS.genruntimeconfig.cache', 'OrderbookSpread.cs', 'GraphicUI.csproj', 'project.nuget.cache', 'GraphicCS.deps.json', 'LoggingCS.AssemblyInfo.cs', 'Order.cs', 'CancelOrder.cs', 'GraphicUI.designer.deps.json', 'TradingEngineServer.Logging.deps.json', 'WinFormsApp1.genruntimeconfig.cache', 'ModifyOrder.cs', 'WinFormsLibrary2.csproj.nuget.g.props', 'GraphicCS.csproj.nuget.g.targets', 'GraphicCS.csproj.FileListAbsolute.txt', 'IOrderCore.cs', 'settings.json', 'OrdersCS.csproj.nuget.dgspec.json', 'BuildWithSkipAnalyzers', 'OrdersCS.csproj.FileListAbsolute.txt', 'ConsoleUI.AssemblyInfoInputs.cache', 'Form1.resx', 'OrderbookCS.csproj.CoreCompileInputs.cache', 'WinFormsLibrary1.csproj.FileListAbsolute.txt', 'LogInformation.cs', 'WinFormsLibrary2.AssemblyInfoInputs.cache', 'GraphicUI.csproj.nuget.dgspec.json', 'WinFormsLibrary1.sln', 'GraphicUI.GlobalUsings.g.cs', 'TradingEngineServer.Instrument.deps.json', 'WinFormsLibrary1.csproj.nuget.dgspec.json', '.NETStandard,Version=v2.1.AssemblyAttributes.cs', 'Class1.cs', 'LoggingCS.csproj', 'WinFormsApp1.csproj', 'GraphicCS.runtimeconfig.json', 'RejectCS.csproj', 'GraphicUI.GeneratedMSBuildEditorConfig.editorconfig', 'MatchResult.cs', 'CopyComplete', 'WinFormsLibrary2.GeneratedMSBuildEditorConfig.editorconfig', 'IRetrievalOrderbook.cs', 'OrderBookEntry.cs', 'GraphicCS.csproj.user', 'InstrumentCS.csproj', 'WinFormsLibrary1.deps.json', 'GraphicCS.AssemblyInfo.cs', 'GraphicUI.deps.json', 'GraphicUI.csproj.user', 'cache', 'LoggingCS.csproj.BuildWithSkipAnalyzers', 'InstrumentCS.csproj.CoreCompileInputs.cache', 'Program.cs', 'RejectionReason.cs', 'LogLevel.cs', 'ConsoleUI.csproj.nuget.dgspec.json', 'Graphic.cs', 'OrderbookCS.GeneratedMSBuildEditorConfig.editorconfig', 'RejectCS.AssemblyInfo.cs', 'WinFormsLibrary1.AssemblyInfoInputs.cache', 'RejectCS.csproj.nuget.g.targets', 'OrderbookCS.csproj.FileListAbsolute.txt', 'RejectCS.csproj.nuget.g.props', 'WinFormsLibrary2.csproj.nuget.dgspec.json', 'WinFormsApp1.csproj.nuget.g.props', 'user', 'WinFormsLibrary1.csproj.CoreCompileInputs.cache', 'InstrumentCS.csproj.nuget.g.props', 'RejectCS.AssemblyInfoInputs.cache', 'LoggingCS.csproj.FileListAbsolute.txt', 'WinFormsApp1.csproj.nuget.g.targets', 'RejectCreator.cs', 'OrdersCS.csproj.BuildWithSkipAnalyzers', 'WinFormsLibrary1.csproj.nuget.g.props'][0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary2/obj/WinFormsLibrary2.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary2/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary2/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary2/obj/Debug/net6.0-windows/WinFormsLibrary2.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: LoggingCS/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: LoggingCS/obj/LoggingCS.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: LoggingCS/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: LoggingCS/obj/Debug/netstandard2.1/LoggingCS.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: LoggingCS/obj/Debug/netstandard2.1/LoggingCS.csproj.CoreCompileInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: LoggingCS/bin/Debug/netstandard2.1/TradingEngineServer.Logging.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: ConsoleUI/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: ConsoleUI/obj/ConsoleUI.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: ConsoleUI/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: ConsoleUI/obj/Debug/net6.0/ConsoleUI.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary1/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary1/obj/WinFormsLibrary1.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary1/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary1/obj/Debug/net6.0-windows/WinFormsLibrary1.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary1/obj/Debug/net6.0-windows/WinFormsLibrary1.csproj.CoreCompileInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsLibrary1/bin/Debug/net6.0-windows/WinFormsLibrary1.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: InstrumentCS/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: InstrumentCS/obj/InstrumentCS.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: InstrumentCS/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: InstrumentCS/obj/Debug/netstandard2.1/InstrumentCS.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: InstrumentCS/obj/Debug/netstandard2.1/InstrumentCS.csproj.CoreCompileInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: InstrumentCS/bin/Debug/netstandard2.1/TradingEngineServer.Instrument.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/obj/GraphicUI.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/obj/Debug/net6.0-windows/GraphicUI.designer.runtimeconfig.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/obj/Debug/net6.0-windows/GraphicUI.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/obj/Debug/net6.0-windows/GraphicUI.genruntimeconfig.cache[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/obj/Debug/net6.0-windows/GraphicUI.designer.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/obj/Debug/net6.0-windows/GraphicUI.csproj.CoreCompileInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/bin/Debug/net6.0-windows/GraphicUI.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicUI/bin/Debug/net6.0-windows/GraphicUI.runtimeconfig.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/obj/WinFormsApp1.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.genruntimeconfig.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.designer.runtimeconfig.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.designer.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.csproj.CoreCompileInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/bin/Debug/net6.0-windows/WinFormsApp1.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: WinFormsApp1/bin/Debug/net6.0-windows/WinFormsApp1.runtimeconfig.json[0m
-[33mWARNING [0m [34mIgnoring file: AlgoTradingPlatform/.vscode/settings.json[0m
-[33mWARNING [0m [34mIgnoring file: OrdersCS/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: OrdersCS/obj/OrdersCS.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: OrdersCS/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: OrdersCS/obj/Debug/netstandard2.1/OrdersCS.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: OrdersCS/obj/Debug/netstandard2.1/OrdersCS.csproj.CoreCompileInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: OrdersCS/bin/Debug/netstandard2.1/TradingEngineServer.Orders.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/obj/GraphicCS.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/obj/Debug/net6.0-windows/GraphicCS.csproj.CoreCompileInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/obj/Debug/net6.0-windows/GraphicCS.genruntimeconfig.cache[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/obj/Debug/net6.0-windows/GraphicCS.designer.runtimeconfig.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/obj/Debug/net6.0-windows/GraphicCS.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/obj/Debug/net6.0-windows/GraphicCS.designer.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/bin/Debug/net6.0-windows/GraphicCS.deps.json[0m
-[33mWARNING [0m [34mIgnoring file: GraphicCS/bin/Debug/net6.0-windows/GraphicCS.runtimeconfig.json[0m
-[33mWARNING [0m [34mIgnoring file: RejectCS/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: RejectCS/obj/RejectCS.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: RejectCS/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: RejectCS/obj/Debug/netstandard2.1/RejectCS.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: OrderbookCS/obj/project.nuget.cache[0m
-[33mWARNING [0m [34mIgnoring file: OrderbookCS/obj/OrderbookCS.csproj.nuget.dgspec.json[0m
-[33mWARNING [0m [34mIgnoring file: OrderbookCS/obj/project.assets.json[0m
-[33mWARNING [0m [34mIgnoring file: OrderbookCS/obj/Debug/netstandard2.1/OrderbookCS.csproj.CoreCompileInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: OrderbookCS/obj/Debug/netstandard2.1/OrderbookCS.AssemblyInfoInputs.cache[0m
-[33mWARNING [0m [34mIgnoring file: OrderbookCS/bin/Debug/netstandard2.1/TradingEngineServer.Orderbook.deps.json[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[32mINFO    [0m [34mCode summaries returned:
-[(PosixPath('WinFormsLibrary2/Class1.cs'), 'HTTPStatus Exception: 401'), (PosixPath('WinFormsLibrary2/WinFormsLibrary2.csproj'), 'HTTPStatus Exception: 401'), (PosixPath('WinFormsLibrary2/obj/WinFormsLibrary2.csproj.nuget.g.props'), 'HTTPStatus Exception: 401'), (PosixPath('WinFormsLibrary2/obj/WinFormsLibrary2.csproj.nuget.g.targets'), 'HTTPStatus Exception: 401'), (PosixPath('WinFormsLibrary2/obj/Debug/net6.0-windows/WinFormsLibrary2.GlobalUsings.g.cs'), 'HTTPStatus Exception: 401')][0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[31mERROR   [0m [34mHTTPStatus Exception:
-Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
-For more information check: https://httpstatuses.com/401[0m
-[32mINFO    [0m [34mCSharp setup guide: ['dotnet build', 'dotnet run', 'dotnet test'][0m
-[32mINFO    [0m [34mREADME file generated at: readmeai.md[0m
-[32mINFO    [0m [34mREADME-AI execution complete.[0m
+
+
+---
+
+## ⚙️ Modules
+
+<details closed><summary>Winformslibrary2</summary>
+
+| File                                                                                                                   | Summary                   |
+| ---                                                                                                                    | ---                       |
+| [Class1.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary2/Class1.cs)                             | HTTPStatus Exception: 401 |
+| [WinFormsLibrary2.csproj](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary2/WinFormsLibrary2.csproj) | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Obj</summary>
+
+| File                                                                                                                                                       | Summary                   |
+| ---                                                                                                                                                        | ---                       |
+| [WinFormsLibrary2.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary2/obj/WinFormsLibrary2.csproj.nuget.g.props)     | HTTPStatus Exception: 401 |
+| [WinFormsLibrary2.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary2/obj/WinFormsLibrary2.csproj.nuget.g.targets) | HTTPStatus Exception: 401 |
+| [LoggingCS.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/obj/LoggingCS.csproj.nuget.g.targets)                      | HTTPStatus Exception: 401 |
+| [LoggingCS.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/obj/LoggingCS.csproj.nuget.g.props)                          | HTTPStatus Exception: 401 |
+| [ConsoleUI.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/ConsoleUI/obj/ConsoleUI.csproj.nuget.g.targets)                      | HTTPStatus Exception: 401 |
+| [ConsoleUI.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/ConsoleUI/obj/ConsoleUI.csproj.nuget.g.props)                          | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/obj/WinFormsLibrary1.csproj.nuget.g.props)     | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/obj/WinFormsLibrary1.csproj.nuget.g.targets) | HTTPStatus Exception: 401 |
+| [InstrumentCS.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/obj/InstrumentCS.csproj.nuget.g.targets)             | HTTPStatus Exception: 401 |
+| [InstrumentCS.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/obj/InstrumentCS.csproj.nuget.g.props)                 | HTTPStatus Exception: 401 |
+| [GraphicUI.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/obj/GraphicUI.csproj.nuget.g.targets)                      | HTTPStatus Exception: 401 |
+| [GraphicUI.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/obj/GraphicUI.csproj.nuget.g.props)                          | HTTPStatus Exception: 401 |
+| [WinFormsApp1.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/obj/WinFormsApp1.csproj.nuget.g.targets)             | HTTPStatus Exception: 401 |
+| [WinFormsApp1.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/obj/WinFormsApp1.csproj.nuget.g.props)                 | HTTPStatus Exception: 401 |
+| [OrdersCS.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/obj/OrdersCS.csproj.nuget.g.targets)                         | HTTPStatus Exception: 401 |
+| [OrdersCS.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/obj/OrdersCS.csproj.nuget.g.props)                             | HTTPStatus Exception: 401 |
+| [GraphicCS.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/obj/GraphicCS.csproj.nuget.g.props)                          | HTTPStatus Exception: 401 |
+| [GraphicCS.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/obj/GraphicCS.csproj.nuget.g.targets)                      | HTTPStatus Exception: 401 |
+| [RejectCS.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/RejectCS/obj/RejectCS.csproj.nuget.g.targets)                         | HTTPStatus Exception: 401 |
+| [RejectCS.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/RejectCS/obj/RejectCS.csproj.nuget.g.props)                             | HTTPStatus Exception: 401 |
+| [OrderbookCS.csproj.nuget.g.props](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/obj/OrderbookCS.csproj.nuget.g.props)                    | HTTPStatus Exception: 401 |
+| [OrderbookCS.csproj.nuget.g.targets](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/obj/OrderbookCS.csproj.nuget.g.targets)                | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Net6.0-windows</summary>
+
+| File                                                                                                                                                                                                                  | Summary                   |
+| ---                                                                                                                                                                                                                   | ---                       |
+| [WinFormsLibrary2.GlobalUsings.g.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary2/obj/Debug/net6.0-windows/WinFormsLibrary2.GlobalUsings.g.cs)                                                 | HTTPStatus Exception: 401 |
+| [.NETCoreApp,Version=v6.0.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary2/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs)                         | HTTPStatus Exception: 401 |
+| [WinFormsLibrary2.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary2/obj/Debug/net6.0-windows/WinFormsLibrary2.AssemblyInfo.cs)                                                     | HTTPStatus Exception: 401 |
+| [WinFormsLibrary2.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary2/obj/Debug/net6.0-windows/WinFormsLibrary2.GeneratedMSBuildEditorConfig.editorconfig) | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/obj/Debug/net6.0-windows/WinFormsLibrary1.GeneratedMSBuildEditorConfig.editorconfig) | HTTPStatus Exception: 401 |
+| [.NETCoreApp,Version=v6.0.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs)                         | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/obj/Debug/net6.0-windows/WinFormsLibrary1.AssemblyInfo.cs)                                                     | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.csproj.BuildWithSkipAnalyzers](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/obj/Debug/net6.0-windows/WinFormsLibrary1.csproj.BuildWithSkipAnalyzers)                         | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.GlobalUsings.g.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/obj/Debug/net6.0-windows/WinFormsLibrary1.GlobalUsings.g.cs)                                                 | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.csproj.FileListAbsolute.txt](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/obj/Debug/net6.0-windows/WinFormsLibrary1.csproj.FileListAbsolute.txt)                             | HTTPStatus Exception: 401 |
+| [GraphicUI.csproj.BuildWithSkipAnalyzers](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/obj/Debug/net6.0-windows/GraphicUI.csproj.BuildWithSkipAnalyzers)                                              | HTTPStatus Exception: 401 |
+| [GraphicUI.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/obj/Debug/net6.0-windows/GraphicUI.AssemblyInfo.cs)                                                                          | HTTPStatus Exception: 401 |
+| [.NETCoreApp,Version=v6.0.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs)                                | HTTPStatus Exception: 401 |
+| [GraphicUI.GlobalUsings.g.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/obj/Debug/net6.0-windows/GraphicUI.GlobalUsings.g.cs)                                                                      | HTTPStatus Exception: 401 |
+| [GraphicUI.csproj.FileListAbsolute.txt](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/obj/Debug/net6.0-windows/GraphicUI.csproj.FileListAbsolute.txt)                                                  | HTTPStatus Exception: 401 |
+| [GraphicUI.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/obj/Debug/net6.0-windows/GraphicUI.GeneratedMSBuildEditorConfig.editorconfig)                      | HTTPStatus Exception: 401 |
+| [WinFormsApp1.csproj.FileListAbsolute.txt](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.csproj.FileListAbsolute.txt)                                         | HTTPStatus Exception: 401 |
+| [.NETCoreApp,Version=v6.0.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs)                             | HTTPStatus Exception: 401 |
+| [WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig)             | HTTPStatus Exception: 401 |
+| [WinFormsApp1.GlobalUsings.g.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.GlobalUsings.g.cs)                                                             | HTTPStatus Exception: 401 |
+| [WinFormsApp1.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.AssemblyInfo.cs)                                                                 | HTTPStatus Exception: 401 |
+| [WinFormsApp1.csproj.BuildWithSkipAnalyzers](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.csproj.BuildWithSkipAnalyzers)                                     | HTTPStatus Exception: 401 |
+| [GraphicCS.csproj.FileListAbsolute.txt](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/obj/Debug/net6.0-windows/GraphicCS.csproj.FileListAbsolute.txt)                                                  | HTTPStatus Exception: 401 |
+| [GraphicCS.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/obj/Debug/net6.0-windows/GraphicCS.AssemblyInfo.cs)                                                                          | HTTPStatus Exception: 401 |
+| [.NETCoreApp,Version=v6.0.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs)                                | HTTPStatus Exception: 401 |
+| [GraphicCS.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/obj/Debug/net6.0-windows/GraphicCS.GeneratedMSBuildEditorConfig.editorconfig)                      | HTTPStatus Exception: 401 |
+| [GraphicCS.csproj.BuildWithSkipAnalyzers](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/obj/Debug/net6.0-windows/GraphicCS.csproj.BuildWithSkipAnalyzers)                                              | HTTPStatus Exception: 401 |
+| [GraphicCS.GlobalUsings.g.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/obj/Debug/net6.0-windows/GraphicCS.GlobalUsings.g.cs)                                                                      | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Loggingcs</summary>
+
+| File                                                                                                | Summary                   |
+| ---                                                                                                 | ---                       |
+| [TextLogger.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/TextLogger.cs)         | HTTPStatus Exception: 401 |
+| [ITextLogger.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/ITextLogger.cs)       | HTTPStatus Exception: 401 |
+| [AbstractLogger.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/AbstractLogger.cs) | HTTPStatus Exception: 401 |
+| [LogInformation.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/LogInformation.cs) | HTTPStatus Exception: 401 |
+| [LoggingCS.csproj](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/LoggingCS.csproj)   | HTTPStatus Exception: 401 |
+| [LoggerType.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/LoggerType.cs)         | HTTPStatus Exception: 401 |
+| [LogLevel.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/LogLevel.cs)             | HTTPStatus Exception: 401 |
+| [ILogger.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/ILogger.cs)               | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Netstandard2.1</summary>
+
+| File                                                                                                                                                                                                      | Summary                   |
+| ---                                                                                                                                                                                                       | ---                       |
+| [LoggingCS.csproj.BuildWithSkipAnalyzers](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/obj/Debug/netstandard2.1/LoggingCS.csproj.BuildWithSkipAnalyzers)                                  | HTTPStatus Exception: 401 |
+| [.NETStandard,Version=v2.1.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs)                  | HTTPStatus Exception: 401 |
+| [LoggingCS.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/obj/Debug/netstandard2.1/LoggingCS.AssemblyInfo.cs)                                                              | HTTPStatus Exception: 401 |
+| [LoggingCS.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/obj/Debug/netstandard2.1/LoggingCS.GeneratedMSBuildEditorConfig.editorconfig)          | HTTPStatus Exception: 401 |
+| [LoggingCS.csproj.FileListAbsolute.txt](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/obj/Debug/netstandard2.1/LoggingCS.csproj.FileListAbsolute.txt)                                      | HTTPStatus Exception: 401 |
+| [InstrumentCS.csproj.BuildWithSkipAnalyzers](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/obj/Debug/netstandard2.1/InstrumentCS.csproj.BuildWithSkipAnalyzers)                         | HTTPStatus Exception: 401 |
+| [.NETStandard,Version=v2.1.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs)               | HTTPStatus Exception: 401 |
+| [InstrumentCS.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/obj/Debug/netstandard2.1/InstrumentCS.AssemblyInfo.cs)                                                     | HTTPStatus Exception: 401 |
+| [InstrumentCS.csproj.FileListAbsolute.txt](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/obj/Debug/netstandard2.1/InstrumentCS.csproj.FileListAbsolute.txt)                             | HTTPStatus Exception: 401 |
+| [InstrumentCS.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/obj/Debug/netstandard2.1/InstrumentCS.GeneratedMSBuildEditorConfig.editorconfig) | HTTPStatus Exception: 401 |
+| [.NETStandard,Version=v2.1.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs)                   | HTTPStatus Exception: 401 |
+| [OrdersCS.csproj.BuildWithSkipAnalyzers](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/obj/Debug/netstandard2.1/OrdersCS.csproj.BuildWithSkipAnalyzers)                                     | HTTPStatus Exception: 401 |
+| [OrdersCS.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/obj/Debug/netstandard2.1/OrdersCS.GeneratedMSBuildEditorConfig.editorconfig)             | HTTPStatus Exception: 401 |
+| [OrdersCS.csproj.FileListAbsolute.txt](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/obj/Debug/netstandard2.1/OrdersCS.csproj.FileListAbsolute.txt)                                         | HTTPStatus Exception: 401 |
+| [OrdersCS.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/obj/Debug/netstandard2.1/OrdersCS.AssemblyInfo.cs)                                                                 | HTTPStatus Exception: 401 |
+| [RejectCS.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/RejectCS/obj/Debug/netstandard2.1/RejectCS.AssemblyInfo.cs)                                                                 | HTTPStatus Exception: 401 |
+| [.NETStandard,Version=v2.1.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/RejectCS/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs)                   | HTTPStatus Exception: 401 |
+| [RejectCS.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/RejectCS/obj/Debug/netstandard2.1/RejectCS.GeneratedMSBuildEditorConfig.editorconfig)             | HTTPStatus Exception: 401 |
+| [OrderbookCS.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/obj/Debug/netstandard2.1/OrderbookCS.AssemblyInfo.cs)                                                        | HTTPStatus Exception: 401 |
+| [.NETStandard,Version=v2.1.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs)                | HTTPStatus Exception: 401 |
+| [OrderbookCS.csproj.CopyComplete](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/obj/Debug/netstandard2.1/OrderbookCS.csproj.CopyComplete)                                                | HTTPStatus Exception: 401 |
+| [OrderbookCS.csproj.BuildWithSkipAnalyzers](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/obj/Debug/netstandard2.1/OrderbookCS.csproj.BuildWithSkipAnalyzers)                            | HTTPStatus Exception: 401 |
+| [OrderbookCS.csproj.FileListAbsolute.txt](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/obj/Debug/netstandard2.1/OrderbookCS.csproj.FileListAbsolute.txt)                                | HTTPStatus Exception: 401 |
+| [OrderbookCS.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/obj/Debug/netstandard2.1/OrderbookCS.GeneratedMSBuildEditorConfig.editorconfig)    | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Loggingconfiguration</summary>
+
+| File                                                                                                                               | Summary                   |
+| ---                                                                                                                                | ---                       |
+| [LoggerConfiguration.cs](https://github.com/iyasinn/TradingEngine/blob/main/LoggingCS/LoggingConfiguration/LoggerConfiguration.cs) | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Consoleui</summary>
+
+| File                                                                                              | Summary                   |
+| ---                                                                                               | ---                       |
+| [ConsoleUI.csproj](https://github.com/iyasinn/TradingEngine/blob/main/ConsoleUI/ConsoleUI.csproj) | HTTPStatus Exception: 401 |
+| [Console.cs](https://github.com/iyasinn/TradingEngine/blob/main/ConsoleUI/Console.cs)             | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Net6.0</summary>
+
+| File                                                                                                                                                                                     | Summary                   |
+| ---                                                                                                                                                                                      | ---                       |
+| [.NETCoreApp,Version=v6.0.AssemblyAttributes.cs](https://github.com/iyasinn/TradingEngine/blob/main/ConsoleUI/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs)           | HTTPStatus Exception: 401 |
+| [ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/iyasinn/TradingEngine/blob/main/ConsoleUI/obj/Debug/net6.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig) | HTTPStatus Exception: 401 |
+| [ConsoleUI.AssemblyInfo.cs](https://github.com/iyasinn/TradingEngine/blob/main/ConsoleUI/obj/Debug/net6.0/ConsoleUI.AssemblyInfo.cs)                                                     | HTTPStatus Exception: 401 |
+| [ConsoleUI.GlobalUsings.g.cs](https://github.com/iyasinn/TradingEngine/blob/main/ConsoleUI/obj/Debug/net6.0/ConsoleUI.GlobalUsings.g.cs)                                                 | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Winformslibrary1</summary>
+
+| File                                                                                                                             | Summary                   |
+| ---                                                                                                                              | ---                       |
+| [Class1.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/Class1.cs)                                       | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.csproj.user](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/WinFormsLibrary1.csproj.user) | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.csproj](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/WinFormsLibrary1.csproj)           | HTTPStatus Exception: 401 |
+| [WinFormsLibrary1.sln](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/WinFormsLibrary1.sln)                 | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Filecontentindex</summary>
+
+| File                                                                                                                             | Summary                   |
+| ---                                                                                                                              | ---                       |
+| [read.lock](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsLibrary1/.vs/WinFormsLibrary1/FileContentIndex/read.lock) | HTTPStatus Exception: 401 |
+| [read.lock](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/.vs/WinFormsApp1/FileContentIndex/read.lock)         | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Instrumentcs</summary>
+
+| File                                                                                                       | Summary                   |
+| ---                                                                                                        | ---                       |
+| [InstrumentCS.csproj](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/InstrumentCS.csproj) | HTTPStatus Exception: 401 |
+| [Security.cs](https://github.com/iyasinn/TradingEngine/blob/main/InstrumentCS/Security.cs)                 | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Graphicui</summary>
+
+| File                                                                                                        | Summary                   |
+| ---                                                                                                         | ---                       |
+| [GraphicUI.csproj](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/GraphicUI.csproj)           | HTTPStatus Exception: 401 |
+| [Form1.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/Form1.cs)                           | HTTPStatus Exception: 401 |
+| [GraphicUI.csproj.user](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/GraphicUI.csproj.user) | HTTPStatus Exception: 401 |
+| [Program.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/Program.cs)                       | HTTPStatus Exception: 401 |
+| [Form1.Designer.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/Form1.Designer.cs)         | HTTPStatus Exception: 401 |
+| [Form1.resx](https://github.com/iyasinn/TradingEngine/blob/main/GraphicUI/Form1.resx)                       | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Winformsapp1</summary>
+
+| File                                                                                                                 | Summary                   |
+| ---                                                                                                                  | ---                       |
+| [WinFormsApp1.csproj.user](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/WinFormsApp1.csproj.user) | HTTPStatus Exception: 401 |
+| [Form1.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/Form1.cs)                                 | HTTPStatus Exception: 401 |
+| [Program.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/Program.cs)                             | HTTPStatus Exception: 401 |
+| [WinFormsApp1.csproj](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/WinFormsApp1.csproj)           | HTTPStatus Exception: 401 |
+| [Form1.Designer.cs](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/Form1.Designer.cs)               | HTTPStatus Exception: 401 |
+| [Form1.resx](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/Form1.resx)                             | HTTPStatus Exception: 401 |
+| [WinFormsApp1.sln](https://github.com/iyasinn/TradingEngine/blob/main/WinFormsApp1/WinFormsApp1.sln)                 | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Orderscs</summary>
+
+| File                                                                                                       | Summary                   |
+| ---                                                                                                        | ---                       |
+| [CancelOrderStatus.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/CancelOrderStatus.cs)   | HTTPStatus Exception: 401 |
+| [OrderBookEntry.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/OrderBookEntry.cs)         | HTTPStatus Exception: 401 |
+| [Order.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/Order.cs)                           | HTTPStatus Exception: 401 |
+| [LimitComparer.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/LimitComparer.cs)           | HTTPStatus Exception: 401 |
+| [RejectionReason.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/RejectionReason.cs)       | HTTPStatus Exception: 401 |
+| [Rejection.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/Rejection.cs)                   | HTTPStatus Exception: 401 |
+| [IOrderCore.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/IOrderCore.cs)                 | HTTPStatus Exception: 401 |
+| [ModifyOrder.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/ModifyOrder.cs)               | HTTPStatus Exception: 401 |
+| [CancelOrder.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/CancelOrder.cs)               | HTTPStatus Exception: 401 |
+| [ModifyOrderStatus.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/ModifyOrderStatus.cs)   | HTTPStatus Exception: 401 |
+| [RejectCreator.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/RejectCreator.cs)           | HTTPStatus Exception: 401 |
+| [Limit.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/Limit.cs)                           | HTTPStatus Exception: 401 |
+| [OrderRecord.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/OrderRecord.cs)               | HTTPStatus Exception: 401 |
+| [OrderStatusCreator.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/OrderStatusCreator.cs) | HTTPStatus Exception: 401 |
+| [OrdersCS.csproj](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/OrdersCS.csproj)             | HTTPStatus Exception: 401 |
+| [NewOrderStatus.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/NewOrderStatus.cs)         | HTTPStatus Exception: 401 |
+| [Side.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/Side.cs)                             | HTTPStatus Exception: 401 |
+| [OrderCore.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrdersCS/OrderCore.cs)                   | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Graphiccs</summary>
+
+| File                                                                                                        | Summary                   |
+| ---                                                                                                         | ---                       |
+| [Graphic.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/Graphic.cs)                       | HTTPStatus Exception: 401 |
+| [Form1.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/Form1.cs)                           | HTTPStatus Exception: 401 |
+| [GraphicCS.csproj](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/GraphicCS.csproj)           | HTTPStatus Exception: 401 |
+| [GraphicCS.csproj.user](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/GraphicCS.csproj.user) | HTTPStatus Exception: 401 |
+| [Form1.Designer.cs](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/Form1.Designer.cs)         | HTTPStatus Exception: 401 |
+| [Form1.resx](https://github.com/iyasinn/TradingEngine/blob/main/GraphicCS/Form1.resx)                       | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Rejectcs</summary>
+
+| File                                                                                           | Summary                   |
+| ---                                                                                            | ---                       |
+| [Class1.cs](https://github.com/iyasinn/TradingEngine/blob/main/RejectCS/Class1.cs)             | HTTPStatus Exception: 401 |
+| [RejectCS.csproj](https://github.com/iyasinn/TradingEngine/blob/main/RejectCS/RejectCS.csproj) | HTTPStatus Exception: 401 |
+
+</details>
+
+<details closed><summary>Orderbookcs</summary>
+
+| File                                                                                                              | Summary                   |
+| ---                                                                                                               | ---                       |
+| [NoMatchOrderbook.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/NoMatchOrderbook.cs)         | HTTPStatus Exception: 401 |
+| [IReadOnlyOrderbook.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/IReadOnlyOrderbook.cs)     | HTTPStatus Exception: 401 |
+| [MatchResult.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/MatchResult.cs)                   | HTTPStatus Exception: 401 |
+| [OrderbookCS.csproj](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/OrderbookCS.csproj)           | HTTPStatus Exception: 401 |
+| [IMatchingOrderbook.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/IMatchingOrderbook.cs)     | HTTPStatus Exception: 401 |
+| [IRetrievalOrderbook.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/IRetrievalOrderbook.cs)   | HTTPStatus Exception: 401 |
+| [OrderbookSpread.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/OrderbookSpread.cs)           | HTTPStatus Exception: 401 |
+| [IOrderEntryOrderbook.cs](https://github.com/iyasinn/TradingEngine/blob/main/OrderbookCS/IOrderEntryOrderbook.cs) | HTTPStatus Exception: 401 |
+
+</details>
+
+---
+
+## 🚀 Getting Started
+
+***Dependencies***
+
+Please ensure you have the following dependencies installed on your system:
+
+`- ℹ️ Dependency 1`
+
+`- ℹ️ Dependency 2`
+
+`- ℹ️ ...`
+
+### 🔧 Installation
+
+1. Clone the TradingEngine repository:
+```sh
+git clone https://github.com/iyasinn/TradingEngine
+```
+
+2. Change to the project directory:
+```sh
+cd TradingEngine
+```
+
+3. Install the dependencies:
+```sh
+dotnet build
+```
+
+### 🤖 Running TradingEngine
+
+```sh
+dotnet run
+```
+
+### 🧪 Tests
+```sh
+dotnet test
+```
+
+---
+
+
+## 🛣 Roadmap
+
+> - [X] `ℹ️  Task 1: Implement X`
+> - [ ] `ℹ️  Task 2: Implement Y`
+> - [ ] `ℹ️ ...`
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome! Please follow these steps:
+1. Fork the project repository. This creates a copy of the project on your account that you can modify without affecting the original project.
+2. Clone the forked repository to your local machine using a Git client like Git or GitHub Desktop.
+3. Create a new branch with a descriptive name (e.g., `new-feature-branch` or `bugfix-issue-123`).
+```sh
+git checkout -b new-feature-branch
+```
+4. Make changes to the project's codebase.
+5. Commit your changes to your local branch with a clear commit message that explains the changes you've made.
+```sh
+git commit -m 'Implemented new feature.'
+```
+6. Push your changes to your forked repository on GitHub using the following command
+```sh
+git push origin new-feature-branch
+```
+7. Create a new pull request to the original project repository. In the pull request, describe the changes you've made and why they're necessary.
+The project maintainers will review your changes and provide feedback or merge them into the main branch.
+
+---
+
+## 📄 License
+
+This project is licensed under the `ℹ️  LICENSE-TYPE` License. See the [LICENSE-Type](LICENSE) file for additional info.
+
+---
+
+## 👏 Acknowledgments
+
+`- ℹ️ List any resources, contributors, inspiration, etc.`
+
+[↑ Return](#Top)
+
+---
