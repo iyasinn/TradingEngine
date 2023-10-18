@@ -37,13 +37,15 @@
 
 ## 📍 Overview
 
-HTTPStatus Exception: 401
-
+TradingEngine server that can take orders and match them 
 ---
 
 ## 📦 Features
 
-HTTPStatus Exception: 401
+Server with multiple orderbooks
+FIFO matching algorithm
+Logerbook
+Templated code to use different loggers, matching algorithms, and orderbook implementations
 
 ---
 
