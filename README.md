@@ -36,7 +36,8 @@
 
 
 ## 📍 Overview
-TradingEngine server that can take orders and match them 
+
+`Trading Engine server that can take orders and match them.`
 ---
 
 ## 📦 Features
