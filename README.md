@@ -37,7 +37,8 @@
 
 ## 📍 Overview
 
-`Trading Engine server that can take orders and match them.`
+Trading Engine server that simulates an exchange. You can create instruments, and each of them will have order books that you can execute trades on. Currently using a FIFO price time priority matching algorithm. 
+
 ---
 
 ## 📦 Features
