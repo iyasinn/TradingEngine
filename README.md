@@ -474,10 +474,8 @@ dotnet test
 
 ## 🛣 Roadmap
 
-> - [X] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Implement Y`
-> - [ ] `ℹ️ ...`
-
+> - [ ] `Finish server endpoints`
+> - [ ] `Finish graphical interface`
 
 ---
 
